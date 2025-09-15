@@ -16,6 +16,9 @@ Este repositório contém todos os trabalhos práticos, anotações e projetos d
 * **Curso:** `Ciência da Computação`
 * **Professor(a):** `Jose Augusto Miranda Nacif`
 
+![Disciplina](https://img.shields.io/badge/Disciplina-Redes%20Neurais-blueviolet?style=flat-square)
+![Professor](https://img.shields.io/badge/Prof.-[Nome_do_Professor]-lightgrey?style=flat-square)
+
 ---
 
 ## 📂 Estrutura dos Trabalhos
@@ -62,5 +65,5 @@ Aqui está a lista dos trabalhos desenvolvidos até o momento.
 
 ## 👨‍💻 Autor
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](`[Link para o seu perfil no LinkedIn]`)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](`[Link para o seu perfil no GitHub]`)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](`https://github.com/alveshenriique`)
