@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Em%20Andamento-8A2BE2?style=flat-square)
 
 ## Sobre o Repositório
 
