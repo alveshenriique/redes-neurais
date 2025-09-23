@@ -58,7 +58,7 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Linguagem:** Python
 * **Bibliotecas Principais:** NumPy, Matplotlib, PIL
