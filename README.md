@@ -34,19 +34,19 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
 
 ### TP 02: Backpropagation
 
-* **Objetivo:** `(A ser preenchido)`
+* **Objetivo:** ``
 * **Status:** `A Fazer `
 * **Entrega:** 30/09
 
 ### TP 03: Redes Neurais Convolucionais
 
-* **Objetivo:** `(A ser preenchido)`
+* **Objetivo:** ``
 * **Status:** `A Fazer `
 * **Entrega:** 21/10
 
 ### TP 04: Redes Neurais Recursivas
 
-* **Objetivo:** `(A ser preenchido)`
+* **Objetivo:** ` `
 * **Status:** `A Fazer `
 * **Entrega:** 28/10
 
