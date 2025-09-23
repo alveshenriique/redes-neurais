@@ -1,4 +1,4 @@
-# 🧠 Repositório da Disciplina: Redes Neurais e Aprendizado Profundo
+# Repositório da Disciplina: Redes Neurais e Aprendizado Profundo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
