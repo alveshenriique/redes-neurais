@@ -24,7 +24,7 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
 ### [Trabalho 01: Regressão Logística para Classificação de Imagens](./Trabalho-01-Regressao-Logistica/)
 
 * **Objetivo:** Implementar um algoritmo de Regressão Logística do zero, usando apenas NumPy, para resolver um problema de classificação binária de imagens (Gato vs. Não-Gato).
-* **Status:** `Concluído ✔️`
+* **Status:** `Concluído `
 * **Conceitos Chave Aplicados:**
     * Pré-processamento de imagens (achatar e normalizar).
     * Implementação da Função Sigmoide.
@@ -35,25 +35,25 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
 ### TP 02: Backpropagation
 
 * **Objetivo:** `(A ser preenchido)`
-* **Status:** `A Fazer ⏳`
+* **Status:** `A Fazer `
 * **Entrega:** 30/09
 
 ### TP 03: Redes Neurais Convolucionais
 
 * **Objetivo:** `(A ser preenchido)`
-* **Status:** `A Fazer ⏳`
+* **Status:** `A Fazer `
 * **Entrega:** 21/10
 
 ### TP 04: Redes Neurais Recursivas
 
 * **Objetivo:** `(A ser preenchido)`
-* **Status:** `A Fazer ⏳`
+* **Status:** `A Fazer `
 * **Entrega:** 28/10
 
 ### TPF-01: Reprodução de Artigo com Transformer
 
 * **Objetivo:** Escolha e reprodução dos resultados de um artigo científico que utiliza a arquitetura Transformer.
-* **Status:** `A Fazer ⏳`
+* **Status:** `A Fazer `
 * **Entrega:** 04/11
 
 ---
