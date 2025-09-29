@@ -33,7 +33,6 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
 ### [Trabalho 02: Multilayer Perceptron e Backpropagation](./TP02-Backpropagation/)
 
 * **Objetivo:** Construir uma rede neural de múltiplas camadas (MLP) com um número flexível de camadas. O foco principal é a implementação do algoritmo de Backpropagation para treinar a rede e melhorar a acurácia em relação ao modelo de Regressão Logística.
-* **Entrega:** 30/09
 * **Conceitos Chave Aplicados:**
     * Implementação de Rede Neural Profunda (MLP).
     * Algoritmo de Backpropagation (retropropagação de erro).
