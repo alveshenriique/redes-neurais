@@ -1,4 +1,4 @@
-# 🧠 Repositório da Disciplina: Redes Neurais e Aprendizado Profundo
+# Repositório da Disciplina: Redes Neurais e Aprendizado Profundo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -17,24 +17,22 @@ Este repositório contém todos os trabalhos práticos, anotações e projetos d
 
 ---
 
-## 🚀 Trabalhos Práticos
+## Trabalhos Práticos
 
 Esta seção documenta o progresso e as entregas dos trabalhos práticos da disciplina.
 
-### 📄 [Trabalho 01: Regressão Logística para Classificação de Imagens](./TP01-Regressao-Logistica/)
+### [Trabalho 01: Regressão Logística para Classificação de Imagens](./TP01-Regressao-Logistica/)
 
 * **Objetivo:** Implementar um algoritmo de Regressão Logística do zero, usando apenas NumPy, para resolver um problema de classificação binária de imagens (Gato vs. Não-Gato).
-* **Status:** `Concluído ✔️`
 * **Conceitos Chave Aplicados:**
     * Pré-processamento de imagens (achatar e normalizar).
     * Implementação da Função Sigmoide.
     * Cálculo da Função de Custo (Entropia Cruzada Binária).
     * Implementação do Gradiente Descendente para otimização dos pesos.
 
-### 📄 [TP 02: Multilayer Perceptron e Backpropagation](./TP02-Backpropagation/)
+### [TP 02: Multilayer Perceptron e Backpropagation](./TP02-Backpropagation/)
 
 * **Objetivo:** Construir uma rede neural de múltiplas camadas (MLP) com um número flexível de camadas. O foco principal é a implementação do algoritmo de Backpropagation para treinar a rede e melhorar a acurácia em relação ao modelo de Regressão Logística.
-* **Status:** `Concluído ✔️`
 * **Entrega:** 30/09
 * **Conceitos Chave Aplicados:**
     * Implementação de Rede Neural Profunda (MLP).
@@ -43,27 +41,24 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
     * Inicialização de pesos avançada.
     * Avaliação de modelo com Acurácia, Precisão, Revocação e Matriz de Confusão.
 
-### 📝 TP 03: Redes Neurais Convolucionais
+### TP 03: Redes Neurais Convolucionais
 
-* **Objetivo:** `(A ser preenchido)`
-* **Status:** `A Fazer ⏳`
+* **Objetivo:** ` `
 * **Entrega:** 21/10
 
-### 📝 TP 04: Redes Neurais Recursivas
+### TP 04: Redes Neurais Recursivas
 
-* **Objetivo:** `(A ser preenchido)`
-* **Status:** `A Fazer ⏳`
+* **Objetivo:** ` `
 * **Entrega:** 28/10
 
-### 📝 TPF-01: Reprodução de Artigo com Transformer
+### TPF-01: Reprodução de Artigo com Transformer
 
 * **Objetivo:** Escolha e reprodução dos resultados de um artigo científico que utiliza a arquitetura Transformer.
-* **Status:** `A Fazer ⏳`
 * **Entrega:** 04/11
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Linguagem:** Python
 * **Bibliotecas Principais:** NumPy, Matplotlib, PIL, Scikit-learn
