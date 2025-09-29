@@ -21,7 +21,7 @@ Este repositório contém todos os trabalhos práticos, anotações e projetos d
 
 Esta seção documenta o progresso e as entregas dos trabalhos práticos da disciplina.
 
-### [Trabalho 01: Regressão Logística para Classificação de Imagens](./TP01-Regressao-Logistica/)
+### [Trabalho 01: Regressão Logística](./TP01-Regressao-Logistica/)
 
 * **Objetivo:** Implementar um algoritmo de Regressão Logística do zero, usando apenas NumPy, para resolver um problema de classificação binária de imagens (Gato vs. Não-Gato).
 * **Conceitos Chave Aplicados:**
