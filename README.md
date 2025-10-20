@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ## Sobre o Repositório
 
@@ -24,6 +25,7 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
 ### [Trabalho 01: Regressão Logística](./TP01-Regressao-Logistica/)
 
 * **Objetivo:** Implementar um algoritmo de Regressão Logística do zero, usando apenas NumPy, para resolver um problema de classificação binária de imagens (Gato vs. Não-Gato).
+* **Status:** `Concluído`
 * **Conceitos Chave Aplicados:**
     * Pré-processamento de imagens (achatar e normalizar).
     * Implementação da Função Sigmoide.
@@ -32,27 +34,38 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
 
 ### [Trabalho 02: Multilayer Perceptron e Backpropagation](./TP02-Backpropagation/)
 
-* **Objetivo:** Construir uma rede neural de múltiplas camadas (MLP) com um número flexível de camadas. O foco principal é a implementação do algoritmo de Backpropagation para treinar a rede e melhorar a acurácia em relação ao modelo de Regressão Logística.
+* **Objetivo:** Construir uma rede neural de múltiplas camadas (MLP) com um número flexível de camadas. Foco na implementação do Backpropagation para treinar a rede e melhorar a acurácia em relação ao modelo anterior.
+* **Status:** `Concluído`
 * **Conceitos Chave Aplicados:**
     * Implementação de Rede Neural Profunda (MLP).
-    * Algoritmo de Backpropagation (retropropagação de erro).
-    * Função de Ativação ReLU para camadas ocultas.
+    * Algoritmo de Backpropagation.
+    * Função de Ativação ReLU.
     * Inicialização de pesos avançada.
-    * Avaliação de modelo com Acurácia, Precisão, Revocação e Matriz de Confusão.
+    * Avaliação com Múltiplas Métricas (Acurácia, Precisão, Revocação, Matriz de Confusão).
 
-### TP 03: Redes Neurais Convolucionais
+### [Trabalho 03: Redes Neurais Convolucionais](./TP03-CNN/)
 
-* **Objetivo:** ` `
+* **Objetivo:** Implementar uma Rede Neural Convolucional (CNN), especificamente a LeNet-5, utilizando PyTorch. Inclui a criação customizada das camadas de Convolução e MaxPooling (vetorizada) e treinamento com mini-batch gradient descent no dataset MNIST.
+* **Status:** `Concluído`
 * **Entrega:** 21/10
+* **Conceitos Chave Aplicados:**
+    * Framework PyTorch (`nn.Module`, `DataLoader`, `transforms`).
+    * Camadas Convolucionais (`nn.Conv2d`, `F.unfold`).
+    * Camadas de Pooling (`nn.MaxPool2d`).
+    * Construção de arquitetura CNN (LeNet-5).
+    * Treinamento com Otimizador Adam e `CrossEntropyLoss`.
+    * Batch Normalization e Dropout (no modelo opcional).
 
 ### TP 04: Redes Neurais Recursivas
 
-* **Objetivo:** ` `
+* **Objetivo:** `(A ser preenchido)`
+* **Status:** `A Fazer`
 * **Entrega:** 28/10
 
 ### TPF-01: Reprodução de Artigo com Transformer
 
 * **Objetivo:** Escolha e reprodução dos resultados de um artigo científico que utiliza a arquitetura Transformer.
+* **Status:** `A Fazer`
 * **Entrega:** 04/11
 
 ---
@@ -60,7 +73,7 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
 ## Tecnologias Utilizadas
 
 * **Linguagem:** Python
-* **Bibliotecas Principais:** NumPy, Matplotlib, PIL, Scikit-learn
+* **Bibliotecas Principais:** NumPy, Matplotlib, PIL, Scikit-learn, **PyTorch**
 * **Ambiente de Desenvolvimento:** Google Colab
 * **Controle de Versão:** Git & GitHub
 
