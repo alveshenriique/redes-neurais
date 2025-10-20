@@ -25,7 +25,6 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
 ### [Trabalho 01: Regressão Logística](./TP01-Regressao-Logistica/)
 
 * **Objetivo:** Implementar um algoritmo de Regressão Logística do zero, usando apenas NumPy, para resolver um problema de classificação binária de imagens (Gato vs. Não-Gato).
-* **Status:** `Concluído`
 * **Conceitos Chave Aplicados:**
     * Pré-processamento de imagens (achatar e normalizar).
     * Implementação da Função Sigmoide.
@@ -35,7 +34,6 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
 ### [Trabalho 02: Multilayer Perceptron e Backpropagation](./TP02-Backpropagation/)
 
 * **Objetivo:** Construir uma rede neural de múltiplas camadas (MLP) com um número flexível de camadas. Foco na implementação do Backpropagation para treinar a rede e melhorar a acurácia em relação ao modelo anterior.
-* **Status:** `Concluído`
 * **Conceitos Chave Aplicados:**
     * Implementação de Rede Neural Profunda (MLP).
     * Algoritmo de Backpropagation.
@@ -46,8 +44,6 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
 ### [Trabalho 03: Redes Neurais Convolucionais](./TP03-CNN/)
 
 * **Objetivo:** Implementar uma Rede Neural Convolucional (CNN), especificamente a LeNet-5, utilizando PyTorch. Inclui a criação customizada das camadas de Convolução e MaxPooling (vetorizada) e treinamento com mini-batch gradient descent no dataset MNIST.
-* **Status:** `Concluído`
-* **Entrega:** 21/10
 * **Conceitos Chave Aplicados:**
     * Framework PyTorch (`nn.Module`, `DataLoader`, `transforms`).
     * Camadas Convolucionais (`nn.Conv2d`, `F.unfold`).
@@ -58,14 +54,12 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
 
 ### TP 04: Redes Neurais Recursivas
 
-* **Objetivo:** `(A ser preenchido)`
-* **Status:** `A Fazer`
+* **Objetivo:** ` `
 * **Entrega:** 28/10
 
 ### TPF-01: Reprodução de Artigo com Transformer
 
 * **Objetivo:** Escolha e reprodução dos resultados de um artigo científico que utiliza a arquitetura Transformer.
-* **Status:** `A Fazer`
 * **Entrega:** 04/11
 
 ---
