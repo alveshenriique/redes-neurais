@@ -73,7 +73,7 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
     * Análise de curvas de aprendizado (Overfitting).
     * Geração de texto com Top-K sampling.
 
-### TPF-01: Reprodução de Artigo com Transformer
+### [TPF-01: Reprodução de Artigo com Transformer]
 
 * **Objetivo:** Escolha e reprodução dos resultados de um artigo científico que utiliza a arquitetura Transformer.
 * **Status:** `A Fazer`
