@@ -72,7 +72,6 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
 ### TPF-01: Reprodução de Artigo com Transformer
 
 * **Objetivo:** Escolha e reprodução dos resultados de um artigo científico que utiliza a arquitetura Transformer.
-* **Status:** `A Fazer`
 * **Entrega:** 04/11
 
 ---
