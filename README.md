@@ -44,7 +44,6 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
 ### [Trabalho 03: Redes Neurais Convolucionais](./TP3-convolutional-neural-networks/)
 
 * **Objetivo:** Implementar uma Rede Neural Convolucional (CNN), especificamente a LeNet-5, utilizando PyTorch. Inclui a criação customizada das camadas de Convolução e MaxPooling (vetorizada) e treinamento com mini-batch gradient descent no dataset MNIST.
-* **Entrega:** 21/10
 * **Conceitos Chave Aplicados:**
     * Framework PyTorch (`nn.Module`, `DataLoader`, `transforms`).
     * Camadas Convolucionais (`nn.Conv2d`, `F.unfold`).
@@ -56,7 +55,6 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
 ### [TP 04: Redes Neurais Recorrentes](./TP4-recurrent-neural-networks/)
 
 * **Objetivo:** Implementar uma Rede Neural Recorrente (RNN) simples em PyTorch para gerar nomes de Pokémon. Inclui também um desafio opcional para construir um modelo LSTM mais avançado para gerar texto no estilo de Machado de Assis, com foco no processamento de sequências, treinamento com validação e geração de texto.
-* **Entrega:** 28/10
 * **Conceitos Chave Aplicados:**
     * Implementação de Camada RNN customizada.
     * Criação de Vocabulário e Mapeamentos (char<->index).
