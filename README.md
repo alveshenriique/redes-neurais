@@ -22,7 +22,7 @@ Este repositório contém todos os trabalhos práticos, anotações e projetos d
 
 Esta seção documenta o progresso e as entregas dos trabalhos práticos da disciplina.
 
-### [Trabalho 01: Regressão Logística](./TP01-logistic-regression/)
+### [Trabalho 01: Regressão Logística](./TP1-logistic-regression/)
 
 * **Objetivo:** Implementar um algoritmo de Regressão Logística do zero, usando apenas NumPy, para resolver um problema de classification binária de imagens (Gato vs. Não-Gato).
 * **Conceitos Chave Aplicados:**
@@ -31,7 +31,7 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
     * Cálculo da Função de Custo (Entropia Cruzada Binária).
     * Implementação do Gradiente Descendente para otimização dos pesos.
 
-### [Trabalho 02: Multilayer Perceptron e Backpropagation](./TP02-Backpropagation/)
+### [Trabalho 02: Multilayer Perceptron e Backpropagation](./TP2-multilayer-perceptron/)
 
 * **Objetivo:** Construir uma rede neural de múltiplas camadas (MLP) com um número flexível de camadas. Foco na implementação do Backpropagation para treinar a rede e melhorar a acurácia em relação ao modelo anterior.
 * **Conceitos Chave Aplicados:**
@@ -41,7 +41,7 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
     * Inicialização de pesos avançada.
     * Avaliação com Múltiplas Métricas (Acurácia, Precisão, Revocação, Matriz de Confusão).
 
-### [Trabalho 03: Redes Neurais Convolucionais](./TP03-CNN/)
+### [Trabalho 03: Redes Neurais Convolucionais](./TP3-convolutional-neural-networks/)
 
 * **Objetivo:** Implementar uma Rede Neural Convolucional (CNN), especificamente a LeNet-5, utilizando PyTorch. Inclui a criação customizada das camadas de Convolução e MaxPooling (vetorizada) e treinamento com mini-batch gradient descent no dataset MNIST.
 * **Entrega:** 21/10
@@ -53,7 +53,7 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
     * Treinamento com Otimizador Adam e `CrossEntropyLoss`.
     * Batch Normalization e Dropout (no modelo opcional).
 
-### [TP 04: Redes Neurais Recorrentes](./TP04-RNN/)
+### [TP 04: Redes Neurais Recorrentes](./TP4-recurrent-neural-networks/)
 
 * **Objetivo:** Implementar uma Rede Neural Recorrente (RNN) simples em PyTorch para gerar nomes de Pokémon. Inclui também um desafio opcional para construir um modelo LSTM mais avançado para gerar texto no estilo de Machado de Assis, com foco no processamento de sequências, treinamento com validação e geração de texto.
 * **Entrega:** 28/10
