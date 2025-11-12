@@ -45,7 +45,6 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
 ### [Trabalho 03: Redes Neurais Convolucionais](./TP03-CNN/)
 
 * **Objetivo:** Implementar uma Rede Neural Convolucional (CNN), especificamente a LeNet-5, utilizando PyTorch. Inclui a criação customizada das camadas de Convolução e MaxPooling (vetorizada) e treinamento com mini-batch gradient descent no dataset MNIST.
-* **Entrega:** 21/10
 * **Conceitos Chave Aplicados:**
     * Framework PyTorch (`nn.Module`, `DataLoader`, `transforms`).
     * Camadas Convolucionais (`nn.Conv2d`, `F.unfold`).
@@ -57,7 +56,6 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
 ### [TP 04: Redes Neurais Recorrentes](./TP04-RNN/)
 
 * **Objetivo:** Implementar uma Rede Neural Recorrente (RNN) simples em PyTorch para gerar nomes de Pokémon. Inclui também um desafio opcional para construir um modelo LSTM mais avançado para gerar texto no estilo de Machado de Assis, com foco no processamento de sequências, treinamento com validação e geração de texto.
-* **Entrega:** 28/10
 * **Conceitos Chave Aplicados:**
     * Implementação de Camada RNN customizada.
     * Criação de Vocabulário e Mapeamentos (char<->index).
@@ -70,10 +68,9 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
     * Análise de curvas de aprendizado (Overfitting).
     * Geração de texto com Top-K sampling.
 
-### [Trabalho Prático Final (TPF): Reprodução de Artigo (DistilBERT)](./TPF-01-distilBERT/)
+### [Trabalho Prático Final (TPF): Reprodução de Artigo DistilBERT](./TPF-01-distilBERT/)
 
-* **Objetivo:** Reproduzir os experimentos de *fine-tuning* do artigo **"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter"**. O projeto focou na tarefa de classificação binária de sentimentos (Positivo/Negativo) do dataset **SST-2** (do benchmark GLUE).
-* **Entregas:** 04/11 (Proposta TPF-01) e 14/11 (Relatório TPF-02)
+* **Objetivo:** Reproduzir os experimentos de *fine-tuning* do artigo **"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter"**. O projeto focou na tarefa de classificação binária de sentimentos Positivo/Negativo do dataset **SST-2** do benchmark GLUE.
 * **Conceitos Chave Aplicados:**
     * Utilização do ecossistema Hugging Face (`transformers`, `datasets`, `evaluate`).
     * Carregamento de modelos pré-treinados (`distilbert-base-uncased` via `AutoModelForSequenceClassification`).
