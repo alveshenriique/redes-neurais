@@ -68,7 +68,7 @@ Esta seção documenta o progresso e as entregas dos trabalhos práticos da disc
     * Análise de curvas de aprendizado (Overfitting).
     * Geração de texto com Top-K sampling.
 
-### [Trabalho Prático Final (TPF): Reprodução de Artigo DistilBERT](./TPF1-reprodução-artigo-transformer/)
+### [Trabalho Prático Final (TPF): Reprodução de Artigo DistilBERT](./TPF-reprodução-artigo-transformer/)
 
 * **Objetivo:** Reproduzir os experimentos de *fine-tuning* do artigo **"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter"**. O projeto focou na tarefa de classificação binária de sentimentos Positivo/Negativo do dataset **SST-2** do benchmark GLUE.
 * **Conceitos Chave Aplicados:**
